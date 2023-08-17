@@ -243,7 +243,8 @@ def predict_audio(YOUTUBE_URL, MAIN_BUCKET_NAME, NAMESPACE_NAME, compartment_id_
     file_location_local_audio = input_youtube_video_audio(YOUTUBE_URL)
     
     # Send Audio File to Object storage
-    name = 'offensive_language.wav'
+    #name = 'offensive_language.wav'
+    name = 'offensive_language_' + str(uuid.uuid4()) +'.wav'
     audio_to_object_storage(main_bucket_name, namespace, config, name, file_location_local_audio) #passing fixed main bucket name and namespace. These are in main.py defined
     
     # Run Speech Model - Returns Results object
