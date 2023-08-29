@@ -1,4 +1,4 @@
-# OCW_LAS_VEGAS
+# OCW Las Vegas - Workshop Details
 This repository holds the OCW_LAS_VEGAS tutorial
 
 ### **APEX**
@@ -11,10 +11,7 @@ Notebooks in this repository:
 - 2_main_ocw_v1. Second and main notebook to run. Defines all steps, creates an OCI Data Science - Job and triggers the Job.
 - 3_ocw_all_py_files. All individual .py (main and subpackages) are defined in this notebook.
 
-
-# OCW Las Vegas - Workshop Details
-
-**The structure is as follows, Follow the instructions outline in the OCW Las Vegas - Workshop Details:**
+**Follow the instructions outline in the OCW Las Vegas - Workshop Details:**
 
 ## Lab 1.
 •	Log-in Oracle Cloud
