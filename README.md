@@ -1,6 +1,44 @@
 # OCW_LAS_VEGAS
 This repository holds the OCW_LAS_VEGAS tutorial
 
+Follow the instructions outline in the OCW Las Vegas - Workshop Details
+
+The structure is as follows:
+## Lab 1.
+•	Log-in Oracle Cloud
+•	Create an Autonomous Database and download the Wallet
+•	Create API Key and download config and private key
+•	Create a Log Group
+•	Create an Object Storage Bucket
+
+## Lab 2.
+•	Create OCI Data Science Notebook Session
+•	Pull Github Repo
+•	Open first Jupyter Notebook and follow steps in the notebook:
+o	Create a custom conda environment
+o	Optional. Adjust Pytube Python package
+o	Publish custom conda environment to Object Storage
+## Lab 3.
+•	Open second Jupyter Notebook and follow steps in the notebook:
+o	Upload Config and Private Key files
+o	Upload Autonomous Database Wallet
+o	Change parameters in Main.py
+o	Add Log Group OCID
+o	Define Custom Conda Environment
+o	Run Notebook (ie., create a Job and run a Job)
+•	Get Job OCID, Project OCID, and Compartment OCID
+
+## Lab 4.
+•	Open APEX and create a Workspace
+•	Importing pre-built application
+•	Managing credentials (API Key)
+•	Configuring the Data Sources (Project OCID, Job OCID, Compartment OCID)
+
+## Lab 5.
+•	Start analysis on Video, Audio, or Both
+•	Optional: enhancing the APEX application
+
+
 ### **APEX**
 - OffensiveBehavior_Template.zip
 
