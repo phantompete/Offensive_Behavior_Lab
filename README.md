@@ -14,7 +14,7 @@ Notebooks in this repository:
 
 # OCW Las Vegas - Workshop Details
 
-[B] The structure is as follows, Follow the instructions outline in the OCW Las Vegas - Workshop Details: [/B]
+**The structure is as follows, Follow the instructions outline in the OCW Las Vegas - Workshop Details:**
 
 ## Lab 1.
 •	Log-in Oracle Cloud
