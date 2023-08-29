@@ -12,9 +12,10 @@ Notebooks in this repository:
 - 3_ocw_all_py_files. All individual .py (main and subpackages) are defined in this notebook.
 
 
-# Follow the instructions outline in the OCW Las Vegas - Workshop Details
+# OCW Las Vegas - Workshop Details
 
-The structure is as follows:
+[B] The structure is as follows, Follow the instructions outline in the OCW Las Vegas - Workshop Details: [/B]
+
 ## Lab 1.
 •	Log-in Oracle Cloud
 •	Create an Autonomous Database and download the Wallet
