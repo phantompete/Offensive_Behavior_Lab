@@ -1,6 +1,0 @@
-[DEFAULT]
-user=ocid1.user.oc1..aaaaaaaaqoelvs3wvtkpx4xkcobfpcdhfdup76lnby4gf6dyxwt44satqdxa
-fingerprint=94:4e:7a:88:f0:ad:53:84:89:33:6e:44:98:fe:8a:45
-tenancy=ocid1.tenancy.oc1..aaaaaaaak2ngks7ntx5eoj3qqntoewzheq7e3kflonkacgkarl5agxsef6kq
-region=eu-frankfurt-1
-key_file=./private_key.pem
