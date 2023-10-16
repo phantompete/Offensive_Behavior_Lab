@@ -6,8 +6,9 @@
 ####################################
 
 password = "Welcome*12345"                                # Database password for user name
-wallet_name = "OCWDB"                                     # The name of wallet or database, like "DB202112101358", excluding "Wallet_" and excluding ".zip"
-compartment_id_input = "ocid1.compartment.oc1..aaaaaaaaicxnkb6iumnvekw3xugguxoznng54itwzy5ohvv2x2nczttvusla"                # OCID of the comparment
+wallet_name = "<WALLET_NAME"                               # The name of wallet or database, like "DB202112101358", excluding "Wallet_" and excluding ".zip"
+compartment_id_input = "<COMPARTMENT_OCID>"                # OCID of the comparment
+
 
 
 
