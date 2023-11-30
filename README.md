@@ -1,5 +1,5 @@
-# OCW Las Vegas - Workshop Details
-This repository holds the OCW_LAS_VEGAS tutorial
+# Offensive Behavior LiveLab - Workshop Details
+This repository holds the "Manage Offensive Behavior Using AI Language, Speech, and Video with Oracle APEX" LiveLab resources.
 
 ### **APEX**
 - OffensiveBehavior_Template.zip
